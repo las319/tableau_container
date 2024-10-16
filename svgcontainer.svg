@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
-  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
-  <g>
-    <g id="Layer_1">
-      <rect x="-2" width="1920" height="1080" fill="#1f2432"/>
-      <rect x="51" y="34" width="1818" height="1017" rx="5" ry="5" fill="#2f3849"/>
-    </g>
-  </g>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2f3849;
+      }
+
+      .cls-2 {
+        fill: #1f2432;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" width="100%" height="100%"/>
+  <rect class="cls-1" x="53" y="34" width="100%" height="100%" rx="5" ry="5"/>
 </svg>
