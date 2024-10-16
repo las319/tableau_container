@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 813 470">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #2f3849;
-      }
-    </style>
-  </defs>
-  <rect class="cls-1" width="813" height="470" rx="5" ry="5"/>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 845 500">
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Layer_1">
+      <rect x="15.5" y="13" width="813" height="470" rx="5" ry="5" fill="#2f3849"/>
+    </g>
+  </g>
 </svg>
